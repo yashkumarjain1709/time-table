@@ -1,0 +1,21 @@
+td{
+    border: 2px solid darkblue;
+    text-align: center;
+    width: 40px;
+    padding: 15px;
+    background-color:lightblue;
+    text-decoration-color: purple;
+}
+tr{
+    text-decoration-color: purple
+}
+table{
+    border: 2px solid darkblue;
+    margin: 50px;
+    border:purple;
+    text-decoration-color: purple;
+
+border-spacing: 5px;}
+body{
+    background-color: peachpuff;
+}
